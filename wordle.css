@@ -1,0 +1,50 @@
+
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Montserrat',monospace;
+    letter-spacing: 5px;
+    color: #289120;
+}
+
+input{
+    height: 50px;
+    width: 45px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    text-align: center;
+    background-color: whitesmoke;
+    font-size: 24px;
+    
+}
+
+.ip,#button,#newgame{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+}
+
+.ip{
+    height: 5%;
+}
+
+#button{
+    margin-top: 3%;
+    
+}
+
+#newgame{
+    margin-top: 1%;
+}
+
+button{
+    width: fit-content;
+    height: 50px;
+    font-size: 22px;
+    padding: 0 2%;
+    border-radius: 10px;
+}
+
+#text{
+    font-size: 30px;
+}
